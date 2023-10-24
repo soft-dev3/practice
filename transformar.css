@@ -1,0 +1,12 @@
+.box{
+    width: 100px;
+    height: 100px;
+    border: 2px solid greenyellow;
+}
+.outer{
+    background-color: gray;
+}
+.inner{
+    background-color: indianred;
+    transform: scale(0.5) rotate(45deg);
+}
